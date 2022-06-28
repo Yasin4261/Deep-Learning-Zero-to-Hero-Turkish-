@@ -1,4 +1,4 @@
-#Yapay Sinir Ağları
+# Yapay Sinir Ağları
 
 ##Yapay Sinir Ağları Nedir?
 
