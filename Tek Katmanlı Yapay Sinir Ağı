@@ -1,11 +1,11 @@
-# Yapay Sinir Ağları
+#Yapay Sinir Ağları
 
-## Yapay Sinir Ağları Nedir?
+##Yapay Sinir Ağları Nedir?
 
   Aslında sayısal değerlere matematiksel işlemler uyguladığımız bilgisayar algoritmalarıdır diyebiliriz. Bahsedilen sayısal 
   değerler programlama dillerindeki dizilerdir.
 
-## Artificial Neural Network
+##Artificial Neural Network
   
   Bir gizli katmanlı sinir ağı yapısını kavrarsak derin sinir ağılarını daha kolay kavrayacağız. Önceden biraz araştırmış 
   iseniz yapay sinir ağlarının temelde üç katmandan oluştuğunu öğrenmişsinizdir. Giriş katmanı, gizli katman ve çıkış katmanı.
